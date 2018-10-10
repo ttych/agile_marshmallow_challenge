@@ -9,7 +9,7 @@
 ## Agenda
 
 + L'exercice
-+ Les Règles
++ Les RÃ¨gles
 + A vous de jouer !
 + On debrief
 
@@ -17,30 +17,30 @@
 
 ## L'exercice
 
-> Créer une tour en spaghetti qui doit soutenir un marshmallow en 18 minutes.
+> CrÃ©er une tour en spaghetti qui doit soutenir un marshmallow en 18 minutes.
 
 ----------
 
 ## Le vainqueur
 
-> L'équipe qui aura la plus grande tour.
+> L'Ã©quipe qui aura la plus grande tour.
 
 ----------
 
-## Les Règles
+## Les RÃ¨gles
 
-- la structure est posée sur la table
+- la structure est posÃ©e sur la table
 - la structure n'est pas suspendue
-- la hauteur se mesure de la base de la structure jusqu'à la base du marshmallow
-- seul le matériel fourni est autorisé
+- la hauteur se mesure de la base de la structure jusqu'Ã  la base du marshmallow
+- seul le matÃ©riel fourni est autorisÃ©
     - structure : ficelle, scotch, marshmallow, spaghettis
     - outil : une paire de ciseaux
-- ficelle, scotch et spaghettis peuvent être découpés mais pas le marshmallow
-- à la sonnerie de fin, plus personne ne touche la structure
+- ficelle, scotch et spaghettis peuvent Ãªtre dÃ©coupÃ©s mais pas le marshmallow
+- Ã  la sonnerie de fin, plus personne ne touche la structure
 
 ----------
 
-## Le matériel
+## Le matÃ©riel
 
 - 20 spaghettis
 - 1m de ficelle
@@ -49,7 +49,7 @@
 
 ----------
 
-## Prêt ?
+## PrÃªt ?
 
 ----------
 
@@ -69,35 +69,35 @@ Vous avez 18 minutes !
 
 Comment vous sentez vous ?
 - satisfait
-- déçu
-- stréssé
-- énérvé
+- dÃ©Ã§u
+- strÃ©ssÃ©
+- Ã©nÃ©rvÃ©
 
 ----------
 
-Avez vous utilisez tout le matériel ?
+Avez vous utilisez tout le matÃ©riel ?
 
 non ? pourquoi ?
 
 ----------
 
-Comment vous êtes vous organisé ?
+Comment vous Ãªtes vous organisÃ© ?
 - Y-a-t'il eu des leaders ?
 - Y-a-t'il eu des suiveurs ?
-- Les membres de l'équipe ont-ils tous participé ?
-- Chaque participant a trouvé sa place dans le groupe ?
+- Les membres de l'Ã©quipe ont-ils tous participÃ© ?
+- Chaque participant a trouvÃ© sa place dans le groupe ?
 
 ----------
 
-Qu'est ce qui a marché ? ... ou pas ?
+Qu'est ce qui a marchÃ© ? ... ou pas ?
 
 ----------
 
-Qu'avez vous observé ?
+Qu'avez vous observÃ© ?
 
 ----------
 
-Vous êtes vous sentis en confiance ?
+Vous Ãªtes vous sentis en confiance ?
 
 En confiance de livrer quelque chose ?
 
@@ -113,15 +113,15 @@ Combien de tests avez vous fait ?
 
 ----------
 
-Etes vous passé en mode urgence / delivery ?
+Etes vous passÃ© en mode urgence / delivery ?
 
-"On arrête tout !!! Il faut livrer !!!!"
+"On arrÃªte tout !!! Il faut livrer !!!!"
 
-"On annule la démo !!!"
+"On annule la dÃ©mo !!!"
 
 ----------
 
-Ce qu'on a observé !
+Ce qu'on a observÃ© !
 - votre premier test
 - combien de tests
 - le mode urgence
@@ -142,9 +142,9 @@ encore 7 minutes ... ;)
 
 |   |   |
 | - | - |
-| 5 | Très positif: bénéfice > temps investi |
+| 5 | TrÃ¨s positif: bÃ©nÃ©fice > temps investi |
 | 4 |   |
-| 3 | Egal: bénéfice == temps investi |
+| 3 | Egal: bÃ©nÃ©fice == temps investi |
 | 2 |   |
-| 1 | Temps perdu: 0 bénéfice pour le temps investi |
+| 1 | Temps perdu: 0 bÃ©nÃ©fice pour le temps investi |
 |   |   |
