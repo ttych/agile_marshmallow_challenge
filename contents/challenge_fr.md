@@ -8,8 +8,8 @@
 
 ## Agenda
 
-+ L'exercice
-+ Les Règles
++ Présentation de l'exercice
++ Les rRègles
 + A vous de jouer !
 + On debrief
 
@@ -70,7 +70,7 @@ Vous avez 18 minutes !
 Comment vous sentez vous ?
 - satisfait
 - déçu
-- stréssé
+- stressé
 - énérvé
 
 ----------
